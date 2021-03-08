@@ -8,5 +8,5 @@ Web Project _ Online Book Store :: BookjuckBookjuck _ Group 4
 
 구현방식
 
--JSP Model 2(Model-View-Controller) 디자인 패턴으로 구현
--요청사항을 Java 클래스를 통해 처리하고 결과값을 Servlet에 반환하여 JSP에 출력했습니다.
+JSP Model 2(Model-View-Controller) 디자인 패턴으로 구현
+요청사항을 Java 클래스를 통해 처리하고 결과값을 Servlet에 반환하여 JSP에 출력했습니다.
